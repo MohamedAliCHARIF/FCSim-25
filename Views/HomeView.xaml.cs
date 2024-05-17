@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace FCSim_25.Views
 {
     /// <summary>
-    /// Logique d'interaction pour Start.xaml
+    /// Logique d'interaction pour HomeView.xaml
     /// </summary>
-    public partial class Start : UserControl
+    public partial class HomeView : UserControl
     {
-        public Start()
+        public HomeView()
         {
             InitializeComponent();
         }
