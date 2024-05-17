@@ -6,7 +6,7 @@
          xmlns:viewmodels="clr-namespace:FCSim_25.ViewModels"
         xmlns:local="clr-namespace:FCSim_25" xmlns:views="clr-namespace:FCSim_25.Views"
         mc:Ignorable="d"
-        Title="MainWindow" Height="800" Width="1200" WindowStartupLocation="CenterScreen">
+        Title="MainWindow" WindowState="Maximized" WindowStartupLocation="CenterScreen">
     <ContentControl Content="{Binding CurrentViewModel}">
         <ContentControl.Resources>
             <DataTemplate DataType="{x:Type viewmodels:StartViewModel}">

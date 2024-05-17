@@ -24,4 +24,5 @@ namespace FCSim_25.Views
         {
             InitializeComponent();
         }
+    }
 }
